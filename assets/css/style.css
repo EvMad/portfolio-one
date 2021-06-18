@@ -130,6 +130,11 @@ body {
     margin-right: 20px;
 }
 
+#footer {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+}
 
 @media (max-width: 1080px){
     .image{
