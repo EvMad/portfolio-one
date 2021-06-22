@@ -8,6 +8,8 @@ This portfolio landing page was made using only HTML and CSS. I originally built
 
 The first three cards link to my course work and group project. There are two cards that are placeholders for future web development projects, and a card that links to my GitHub Profile.
 
+![ Alt text](name-of-gif-file. gif) / ! [](EBM. gif)
+
 #### USAGE
 
 There are icons which link to each project in a new tab.
