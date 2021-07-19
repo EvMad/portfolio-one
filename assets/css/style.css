@@ -25,7 +25,8 @@ body {
 }
 
 .image {
-    background: #50A7FF;
+    /* background: #50A7FF; */
+    background:#000;
     position: relative;
     flex: 1;
     max-width: 460px;
