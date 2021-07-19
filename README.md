@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-This portfolio landing page was made using only HTML and CSS. I originally built this page locally, on a weekend as a confidence-boosting excercise. I wanted to see that I could create responsive css if I had step by step instructions. I followed step by step from a youtube video, and then added my own touches. Ultimiatelty I decided to use this as a plaform for my first portfolio.  There is a lot of room to expand off of the basic design and structure. One of the links is the original porfolio landing page I made for bootcamp.
+This portfolio landing page was made using only HTML and CSS, and is a work in progress. It has been updated as of July 2021 with screenshots, more links, and more personalization. I originally built this page locally, on a weekend as a confidence-boosting excercise. I wanted to see that I could create responsive css if I had step by step instructions. I followed step by step from a youtube video, and then added my own touches. Ultimiatelty I decided to use this as a plaform for my first portfolio.  There is a lot of room to expand off of the basic design and structure. 
 
 ### CONTENT
 
