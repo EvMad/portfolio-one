@@ -1,4 +1,4 @@
-# Evan Madden - Phase One Portfolio
+# Evan Madden - Phases One and Two Portfolio
 
 ## ABOUT
 
