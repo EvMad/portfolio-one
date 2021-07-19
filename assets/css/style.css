@@ -57,6 +57,10 @@ body {
     height: 100%;
 }
 
+#res{
+    color:#000;
+}
+
 .image .details h2{
     text-align: center;
     font-size: 35px;
