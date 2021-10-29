@@ -1,12 +1,12 @@
-# Evan Madden - Phases One and Two Portfolio
+# Evan Madden - Web Development Portfolio
 
 ## ABOUT
 
-This portfolio landing page was made using only HTML and CSS, and is a work in progress. It has been updated as of July 2021 with screenshots, more links, and more personalization. I originally built this page locally, on a weekend as a confidence-boosting excercise. I wanted to see that I could create responsive css if I had step by step instructions. I followed step by step from a youtube video, and then added my own touches. Ultimiatelty I decided to use this as a plaform for my first portfolio.  There is a lot of room to expand off of the basic design and structure. 
+This portfolio was made using only HTML and custom CSS. The responsive image cards each contain two links to the deployed applications (the text link and the eye icon.)
 
-### CONTENT
+### Screencasts
 
-The image cards have been updated as of July 2021 with new links, screenshots, and projects
+Phase 3 Version Screencast
 
 Phase 2 Version Screencast
 
@@ -16,10 +16,4 @@ Phase 2 Version Screencast
 Phase 1 Version Screencast:
 ![screencastify](EBM.gif)
 
-#### USAGE
 
-There are icons which link to each project in a new tab.
-
-##### SOURCES
-
-Responsive Image Card Tutorial from Coding Snow: https://www.youtube.com/watch?v=E2TW4ZxXrsI
