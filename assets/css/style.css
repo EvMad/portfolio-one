@@ -29,8 +29,8 @@ body {
     background:#000;
     position: relative;
     flex: 1;
-    max-width: 460px;
-    min-width: 460px;
+    max-width: 450px;
+    min-width: 450px;
     height: 300px;
     margin: 20px;
     overflow: hidden;
