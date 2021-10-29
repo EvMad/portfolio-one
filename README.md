@@ -8,6 +8,8 @@ This portfolio was made using only HTML and custom CSS. The responsive image car
 
 Phase 3 Version Screencast
 
+![screencast](portfolio_oct_2021.gif)
+
 Phase 2 Version Screencast
 
 ![screencast](EBMport1.gif)
