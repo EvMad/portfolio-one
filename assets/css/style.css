@@ -141,6 +141,21 @@ body {
     color: #fff;
 }
 
+a {
+    color: #fff;
+}
+
+.about {
+    min-width: 70%;
+    max-width: 90%;
+    min-height: 60%;
+    max-height: 80%;
+    background-color: #2F3238;
+    color:#fff;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
 @media (max-width: 1080px){
     .image{
         flex: 100%;
