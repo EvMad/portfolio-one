@@ -159,6 +159,13 @@ a {
     text-align: center;
 }
 
+#pic {
+    max-width: 450px;
+    max-height: 450px;
+    min-width: fit-content;
+    min-height: fit-content;
+}
+
 @media (max-width: 1080px){
     .image{
         flex: 100%;
