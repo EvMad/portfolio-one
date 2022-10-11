@@ -13,6 +13,11 @@ body {
     background: #2F3238;
 }
 
+#about {
+    background: #fff;
+    color:  #2F3238;
+}
+
 .container {
     margin: 30px;
 }
@@ -153,10 +158,12 @@ a {
     max-width: 70%;
     min-height: 50%;
     max-height: 70%;
-    background-color: #2F3238;
-    color:#fff;
     font-family: 'Raleway', sans-serif;
     text-align: center;
+}
+
+.footerAbout {
+    color: #2F3238;
 }
 
 #pic {
