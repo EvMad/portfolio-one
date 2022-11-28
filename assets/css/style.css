@@ -181,7 +181,7 @@ a {
 @media (max-width: 1080px){
     .image{
         flex: 100%;
-        max-width: 480px;
+        max-width: 450px;
     }
 }
 
@@ -190,6 +190,8 @@ a {
         opacity: 1;
         transform: translateY(-50px);
     }
+
+
 }
 
 @media (max-width: 400px){
