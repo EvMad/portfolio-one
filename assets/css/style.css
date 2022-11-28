@@ -185,6 +185,8 @@ a {
     }
 }
 
+
+
 @media (max-width: 400px){
     .image .details p{
         font-size: 16px;
@@ -192,6 +194,11 @@ a {
 
     .more .read-more, .more .icon-links a i{
         font-size: 18px;
+    }
+
+    .image .details {
+        opacity: 1;
+        transform: translateY(-40px);
     }
 }
 
