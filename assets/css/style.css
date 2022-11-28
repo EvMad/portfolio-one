@@ -186,6 +186,11 @@ a {
 }
 
 @media (max-width: 762px) {
+
+    html body {
+        background-color: black;
+    }
+
     .image .details {
         opacity: 1;
         transform: translateY(-50px);
